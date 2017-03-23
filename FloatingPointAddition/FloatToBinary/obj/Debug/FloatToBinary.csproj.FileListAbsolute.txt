@@ -1,0 +1,12 @@
+c:\users\abhinay.cheela\documents\visual studio 2015\Projects\FloatToBinary\FloatToBinary\bin\Debug\FloatToBinary.exe.config
+c:\users\abhinay.cheela\documents\visual studio 2015\Projects\FloatToBinary\FloatToBinary\bin\Debug\FloatToBinary.exe
+c:\users\abhinay.cheela\documents\visual studio 2015\Projects\FloatToBinary\FloatToBinary\bin\Debug\FloatToBinary.pdb
+c:\users\abhinay.cheela\documents\visual studio 2015\Projects\FloatToBinary\FloatToBinary\obj\Debug\FloatToBinary.csprojResolveAssemblyReference.cache
+c:\users\abhinay.cheela\documents\visual studio 2015\Projects\FloatToBinary\FloatToBinary\obj\Debug\FloatToBinary.exe
+c:\users\abhinay.cheela\documents\visual studio 2015\Projects\FloatToBinary\FloatToBinary\obj\Debug\FloatToBinary.pdb
+C:\Users\abhinay.cheela\Desktop\FloatToBinary\FloatToBinary\bin\Debug\FloatToBinary.exe.config
+C:\Users\abhinay.cheela\Desktop\FloatToBinary\FloatToBinary\obj\Debug\FloatToBinary.exe
+C:\Users\abhinay.cheela\Desktop\FloatToBinary\FloatToBinary\obj\Debug\FloatToBinary.pdb
+C:\Users\abhinay.cheela\Desktop\FloatToBinary\FloatToBinary\bin\Debug\FloatToBinary.exe
+C:\Users\abhinay.cheela\Desktop\FloatToBinary\FloatToBinary\bin\Debug\FloatToBinary.pdb
+C:\Users\abhinay.cheela\Desktop\FloatToBinary\FloatToBinary\obj\Debug\FloatToBinary.csprojResolveAssemblyReference.cache

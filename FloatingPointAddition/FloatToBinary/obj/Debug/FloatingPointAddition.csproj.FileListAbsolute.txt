@@ -1,0 +1,6 @@
+C:\Users\abhinay.cheela\Documents\Visual Studio 2015\Projects\FloatToBinary\FloatToBinary\bin\Debug\FloatToBinary.exe.config
+C:\Users\abhinay.cheela\Documents\Visual Studio 2015\Projects\FloatToBinary\FloatToBinary\bin\Debug\FloatToBinary.exe
+C:\Users\abhinay.cheela\Documents\Visual Studio 2015\Projects\FloatToBinary\FloatToBinary\bin\Debug\FloatToBinary.pdb
+C:\Users\abhinay.cheela\Documents\Visual Studio 2015\Projects\FloatToBinary\FloatToBinary\obj\Debug\FloatingPointAddition.csprojResolveAssemblyReference.cache
+C:\Users\abhinay.cheela\Documents\Visual Studio 2015\Projects\FloatToBinary\FloatToBinary\obj\Debug\FloatToBinary.exe
+C:\Users\abhinay.cheela\Documents\Visual Studio 2015\Projects\FloatToBinary\FloatToBinary\obj\Debug\FloatToBinary.pdb
