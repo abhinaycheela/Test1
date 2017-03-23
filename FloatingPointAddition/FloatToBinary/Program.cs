@@ -1,10 +1,10 @@
-﻿using System;
+using System;
 
 namespace FloatingPointAddition
 {
     class Program
     {
-        static void Main(string[] args)
+        static void Main(tring[] args)
         {
             Console.WriteLine("Enter number1 :");
             string input1 = Console.ReadLine();
