@@ -4,7 +4,7 @@ namespace FloatingPointAddition
 {
     class Program
     {
-        static void Main(tring[] args)
+        static void Main(string[] args)
         {
             Console.WriteLine("Enter number1 :");
             string input1 = Console.ReadLine();
