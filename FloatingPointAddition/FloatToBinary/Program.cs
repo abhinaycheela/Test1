@@ -5,7 +5,7 @@ namespace FloatingPointAddition
     class Program
     {
         static void Main(string[] args)
-        {
+        {//fgfudf
             Console.WriteLine("Enter number1 :");
             string input1 = Console.ReadLine();
             Console.WriteLine("Enter numer2:");
