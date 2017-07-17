@@ -1,0 +1,52 @@
+html,
+body {
+    height: 100%;
+    padding: 0;
+    margin: 0;
+}
+
+
+ .scroll{       
+    max-height: 500px;
+    position: absolute;
+    overflow-y: scroll;
+}
+::-webkit-scrollbar{
+    display: none;
+}
+
+.fixed_headers {
+  table-layout: fixed;
+  border-collapse: collapse;
+  padding: 5px;
+  margin:auto auto; 
+} 
+.fixed_headers td,.fixed_headers th {
+    border: 0.5px solid #DDDDDD;
+    text-align: left;
+    width: 50px;
+  }
+
+
+.fixed_headers tr {
+     display: block;
+     position: relative;
+}
+.fixed_headers tbody {
+    display: block;
+    overflow: auto;
+    height: 700px;
+  }
+.fixed_headers tr:nth-child(even) {
+      background-color: #F1F1F1;
+    }
+    .scheduler {
+        display:block;
+        text-align: center;
+    }
+    .scheduler input{
+        border: 2px solid #4EB1BA;
+        color:#E9E9E9;
+        background-color:#4EB1BA
+    }
+    

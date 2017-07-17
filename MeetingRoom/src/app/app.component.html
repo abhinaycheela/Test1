@@ -1,0 +1,18 @@
+<div class="scheduler">
+    <input type="text" name="daterangeInput" daterangepicker align="right" [options]="options" (selected)="selectedDate($event)" />
+    <table class="fixed_headers" >
+        <thead *ngIf="flag">
+            <tr>
+                <th>Time\ Day</th>
+                <th *ngFor="let date of dateArray">{{date}}</th>
+            </tr>
+        </thead>
+        <tbody class="scroll"  >
+            <tr *ngFor="let time1 of timeArray">
+                <td>{{time1}}</td>
+                <td *ngFor="let date1 of dateArray" (click)="func($event)" id={{date1}}T{{time1}}> {{date1}}
+                </td>
+            </tr>
+        </tbody>
+    </table>
+</div>
